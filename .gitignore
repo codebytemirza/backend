@@ -7,7 +7,7 @@ __pycache__/
 # Ignore environment variables
 .env
 
-test/
+
 # Ignore virtual environment folders (if any)
 venv/
 env/
