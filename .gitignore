@@ -1,0 +1,33 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment variables
+.env
+
+
+# Ignore virtual environment folders (if any)
+venv/
+env/
+.venv/
+
+# Ignore data folder if it contains generated or temporary files
+data/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore test cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ignore logs
+*.log
+
+# Ignore editor/project files
+.vscode/
+.idea/
